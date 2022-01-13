@@ -1,6 +1,6 @@
 # Gym-website
 This is a gym website and is called Fanatic Fitness. It is anEnd semester project for the subject of Web Technology. <br>
-Tech stack used:
+Tech stack used:<br>
 PHP<br>
 MySQL<br>
 HTML<br>
